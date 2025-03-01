@@ -1,0 +1,17 @@
+@@ -0,0 +1,16 @@
+.ride-list {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.ride-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.ride-list li {
+    background: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}

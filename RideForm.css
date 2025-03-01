@@ -1,0 +1,22 @@
+ride-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.ride-form input, .ride-form button {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.ride-form button {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.ride-form button:hover {
+    background-color: #0056b3;
+}
